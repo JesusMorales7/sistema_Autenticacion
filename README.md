@@ -2,6 +2,10 @@
 Crear un sistema similar al del segundo proyecto, pero utilizando el lenguaje Rust y  un framework web, como Rocket o Actix.
 El proyecto Sistema de Autenticación tiene como objetivo crear una aplicación web básica utilizando Rust y un framework como Actix. El sistema permite a los usuarios registrarse e iniciar sesión de forma segura. Además, se gestionan las sesiones mediante cookies para mantener el estado de autenticación durante la navegación.
 
+Proyecto de Jesus Adrian Ascencion Morales.
+Programacion Web
+Profesor: Juan Manuel Olguín Medina
+
 Decisiones Técnicas y Bibliotecas Utilizadas:
 Rust:
 
